@@ -1,0 +1,7 @@
+{
+  "name": "event_tracker_with_view",
+  "private": true,
+  "dependencies": {
+    "ahoy.js": "^0.3.4"
+  }
+}
